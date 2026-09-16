@@ -1,0 +1,17 @@
+.header {
+    background-color: black;
+}
+
+.header-2{
+    display:flex;
+    justify-content: space-evenly;
+    algin-items: center;
+    width: 100%;
+    length: 50px;
+}
+
+.logo img{
+    width: 100px;
+}
+
+.menu 
